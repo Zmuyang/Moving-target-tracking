@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\马春阳\documents\c++\tracking target\tracking target\main.cpp(78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\马春阳\documents\c++\tracking target\tracking target\main.cpp(85): warning C4551: 缺少参数列表的函数调用
+  Tracking target.vcxproj -> C:\Users\马春阳\Documents\C++\Tracking target\x64\Debug\Tracking target.exe
